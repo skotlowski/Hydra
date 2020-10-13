@@ -1,0 +1,8 @@
+
+Class initialization:
+	When class initialized, let it show valid class name in case when it inheritances 
+
+
+Assert functions:
+	- Implement assertion functions
+	- let functions log what class, function name and condition it is when it failed, pattern <Class> - <Function> <Test result>, if failed let it show what goes wrong
